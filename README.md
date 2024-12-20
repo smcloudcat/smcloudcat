@@ -1,10 +1,9 @@
 <div align="center">
-  <!-- 头像和简介图标 -->
+  
   <img src="https://img.czzu.cn/u/git/sAc68e9u.png" width="25%" align="right" />
   <img src="https://cdn.lwcat.cn/git.svg" width="70%" />
   <br><br>
 
-  <!-- 个人简介 -->
   <pre style="text-align: left; font-size: 16px; line-height: 1.6; font-family: 'Arial', sans-serif;">
     - 🌱 大学生一枚，非计算机专业~
     - 🐾 喜欢猫猫~爱看小说爱打游戏（又菜又爱玩） 🐤🐥
@@ -12,12 +11,9 @@
     - 🤔 我的博客lwcat.cn
   </pre>
   <br><br>
-
-  <!-- 动图 -->
   <img src="https://cdn.lwcat.cn/wordpress/them/assets/images/top/meow.gif" height="50" />
   <br><br><br>
 
-  <!-- 社交媒体链接图标 -->
   <a href="https://lwcat.cn">
     <img src="https://cdn.lwcat.cn/gitblog.svg" alt="Git Blog" style="width: 40px; margin: 0 10px;">
   </a>
