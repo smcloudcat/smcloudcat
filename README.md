@@ -13,10 +13,8 @@
   </pre>
   <br><br>
 
-  <!-- 动图放在左边 -->
   <div style="display: flex; align-items: center;">
     <img src="https://cdn.lwcat.cn/wordpress/them/assets/images/top/meow.gif" height="50" style="margin-right: 20px;" />
-    <span>动图展示在这里</span>
   </div>
   <br><br><br>
 
