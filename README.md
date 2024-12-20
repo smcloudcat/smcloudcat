@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://img.czzu.cn/u/git/sAc68e9u.png" width="25%" align="right" />
+  <img src="https://cdn.lwcat.cn/wordpress/them/assets/images/top/meow.gif" width="25%" align="right" />
   <img src="https://cdn.lwcat.cn/git.svg" width="70%" />
   <br><br>
 
@@ -11,8 +11,6 @@
     - 🤔 我的博客lwcat.cn
   </pre>
   <br><br>
-  <img src="https://cdn.lwcat.cn/wordpress/them/assets/images/top/meow.gif" height="50" />
-  <br><br><br>
 
   <a href="https://lwcat.cn">
     <img src="https://cdn.lwcat.cn/gitblog.svg" alt="Git Blog" style="width: 50px; margin: 10px;">
