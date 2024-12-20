@@ -22,25 +22,16 @@
   </div>
   <br><br><br>
 
-  <!-- 社交媒体按钮 -->
-  <a href="https://lwcat.cn">
-    <button style="padding: 10px 20px; font-size: 14px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; margin: 0 10px;">
-      Git Blog
-    </button>
-  </a>
-  <a href="https://mylove.lifestyle">
-    <button style="padding: 10px 20px; font-size: 14px; background-color: #FF5722; color: white; border: none; border-radius: 5px; margin: 0 10px;">
-      My Life
-    </button>
-  </a>
-  <a href="https://github.com/smcloudcat/">
-    <button style="padding: 10px 20px; font-size: 14px; background-color: #333; color: white; border: none; border-radius: 5px; margin: 0 10px;">
-      GitHub
-    </button>
-  </a>
-  <a href="https://gitee.com/ximami/">
-    <button style="padding: 10px 20px; font-size: 14px; background-color: #00B38A; color: white; border: none; border-radius: 5px; margin: 0 10px;">
-      Gitee
-    </button>
-  </a>
+<a href="https://lwcat.cn">
+  <img src="https://cdn.lwcat.cn/gitblog.svg" alt="Git Blog" style="margin: 10px;">
+</a>
+<a href="https://mylove.lifestyle">
+  <img src="https://cdn.lwcat.cn/gitmylife.svg" alt="My Life" style="margin: 10px;">
+</a>
+<a href="https://github.com/smcloudcat/">
+  <img src="https://cdn.lwcat.cn/github.svg" alt="GitHub" style="margin: 10px;">
+</a>
+<a href="https://gitee.com/ximami/">
+  <img src="https://cdn.lwcat.cn/gitee.svg" alt="Gitee" style="margin: 10px;">
+</a>
 </div>
