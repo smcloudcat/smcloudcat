@@ -1,9 +1,10 @@
 <div align="center">
-  
-  <img src="https://cdn.lwcat.cn/wordpress/them/assets/images/top/meow.gif" width="25%" align="right" />
+  <!-- 头像和简介图标 -->
+  <img src="https://img.czzu.cn/u/git/sAc68e9u.png" width="25%" align="right" />
   <img src="https://cdn.lwcat.cn/git.svg" width="70%" />
   <br><br>
 
+  <!-- 个人简介 -->
   <pre style="text-align: left; font-size: 16px; line-height: 1.6; font-family: 'Arial', sans-serif;">
     - 🌱 大学生一枚，非计算机专业~
     - 🐾 喜欢猫猫~爱看小说爱打游戏（又菜又爱玩） 🐤🐥
@@ -12,16 +13,32 @@
   </pre>
   <br><br>
 
+  <!-- 动图放在左边 -->
+  <div style="display: flex; align-items: center;">
+    <img src="https://cdn.lwcat.cn/wordpress/them/assets/images/top/meow.gif" height="50" style="margin-right: 20px;" />
+    <span>动图展示在这里</span>
+  </div>
+  <br><br><br>
+
+  <!-- 社交媒体按钮 -->
   <a href="https://lwcat.cn">
-    <img src="https://cdn.lwcat.cn/gitblog.svg" alt="Git Blog" style="width: 50px; margin: 10px;">
+    <button style="padding: 10px 20px; font-size: 14px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; margin: 0 10px;">
+      Git Blog
+    </button>
   </a>
   <a href="https://mylove.lifestyle">
-    <img src="https://cdn.lwcat.cn/gitmylife.svg" alt="My Life" style="width: 50px; margin: 10px;">
+    <button style="padding: 10px 20px; font-size: 14px; background-color: #FF5722; color: white; border: none; border-radius: 5px; margin: 0 10px;">
+      My Life
+    </button>
   </a>
   <a href="https://github.com/smcloudcat/">
-    <img src="https://cdn.lwcat.cn/github.svg" alt="GitHub" style="width: 50px; margin: 10px;">
+    <button style="padding: 10px 20px; font-size: 14px; background-color: #333; color: white; border: none; border-radius: 5px; margin: 0 10px;">
+      GitHub
+    </button>
   </a>
   <a href="https://gitee.com/ximami/">
-    <img src="https://cdn.lwcat.cn/gitee.svg" alt="Gitee" style="width: 50px; margin: 10px;">
+    <button style="padding: 10px 20px; font-size: 14px; background-color: #00B38A; color: white; border: none; border-radius: 5px; margin: 0 10px;">
+      Gitee
+    </button>
   </a>
 </div>
