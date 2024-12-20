@@ -18,6 +18,7 @@
     <img src="https://cdn.lwcat.cn/wordpress/them/assets/images/top/lemon.gif" height="50" style="margin-right: 20px;" />
     <img src="https://cdn.lwcat.cn/wordpress/them/assets/images/top/dance.gif" height="50" style="margin-right: 20px;" />
     <img src="https://cdn.lwcat.cn/wordpress/them/assets/images/top/lolisister2.gif" height="50" style="margin-right: 20px;" />
+    <img src="https://cdn.lwcat.cn/wordpress/them/assets/images/top/lolisister1.gif" height="50" style="margin-right: 20px;" />
   </div>
   <br><br><br>
 
