@@ -21,17 +21,4 @@
     <img src="https://cdn.lwcat.cn/wordpress/them/assets/images/top/lolisister1.gif" height="50" style="margin-right: 20px;" />
   </div>
   <br><br><br>
-
-<a href="https://lwcat.cn">
-  <img src="https://cdn.lwcat.cn/gitblog.svg" alt="Git Blog" style="margin: 10px;">
-</a>
-<a href="https://mylove.lifestyle">
-  <img src="https://cdn.lwcat.cn/gitmylife.svg" alt="My Life" style="margin: 10px;">
-</a>
-<a href="https://github.com/smcloudcat/">
-  <img src="https://cdn.lwcat.cn/github.svg" alt="GitHub" style="margin: 10px;">
-</a>
-<a href="https://gitee.com/ximami/">
-  <img src="https://cdn.lwcat.cn/gitee.svg" alt="Gitee" style="margin: 10px;">
-</a>
 </div>
